@@ -1,0 +1,9 @@
+C:\Users\funnycircus\Desktop\CS252-HomeWork\矩形面積\矩形\bin\Debug\矩形.exe.config
+C:\Users\funnycircus\Desktop\CS252-HomeWork\矩形面積\矩形\obj\Debug\矩形.csprojResolveAssemblyReference.cache
+C:\Users\funnycircus\Desktop\CS252-HomeWork\矩形面積\矩形\obj\Debug\矩形.Form1.resources
+C:\Users\funnycircus\Desktop\CS252-HomeWork\矩形面積\矩形\obj\Debug\矩形.Properties.Resources.resources
+C:\Users\funnycircus\Desktop\CS252-HomeWork\矩形面積\矩形\obj\Debug\矩形.csproj.GenerateResource.Cache
+C:\Users\funnycircus\Desktop\CS252-HomeWork\矩形面積\矩形\bin\Debug\矩形.exe
+C:\Users\funnycircus\Desktop\CS252-HomeWork\矩形面積\矩形\bin\Debug\矩形.pdb
+C:\Users\funnycircus\Desktop\CS252-HomeWork\矩形面積\矩形\obj\Debug\矩形.exe
+C:\Users\funnycircus\Desktop\CS252-HomeWork\矩形面積\矩形\obj\Debug\矩形.pdb
